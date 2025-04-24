@@ -10,7 +10,6 @@ sales-prediction-ml/
 │
 ├── Sales_Prediction_Project_Updated.ipynb  # Main Jupyter notebook
 ├── README.md                               # Project overview and instructions
-└── requirements.txt                        # (Optional) Python package dependencies
 ```
 
 ## ⚙️ Technologies Used
@@ -24,8 +23,8 @@ sales-prediction-ml/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sales-prediction-ml.git
-cd sales-prediction-ml
+git clone https://github.com/KavyaChopade/SalesPredictionProject
+cd SalesPredictionProject
 ```
 
 2. Install dependencies:
@@ -47,5 +46,5 @@ jupyter notebook Sales_Prediction_Project_Updated.ipynb
 
 ## 📝 Author
 
-**Your Name**  
-[Your GitHub Profile Link]
+Kavya Chopade  
+[https://github.com/KavyaChopade]
