@@ -8,7 +8,7 @@ This project predicts car purchase amounts based on customer data using machine 
 ```
 SalesPredictionProject/
 │
-├── Sales_Prediction_Project_Updated.ipynb  # Main Jupyter notebook
+├── Sales_Prediction_Project_.ipynb  # Main Jupyter notebook
 ├── README.md                               # Project overview and instructions
 ```
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 3. Open the notebook:
 ```bash
-jupyter notebook Sales_Prediction_Project_Updated.ipynb
+jupyter notebook Sales_Prediction_Project_.ipynb
 ```
 
 ## 📊 Project Highlights
