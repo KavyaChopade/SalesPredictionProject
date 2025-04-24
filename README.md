@@ -6,7 +6,7 @@ This project predicts car purchase amounts based on customer data using machine 
 ## 📁 Project Structure
 
 ```
-sales-prediction-ml/
+SalesPredictionProject/
 │
 ├── Sales_Prediction_Project_Updated.ipynb  # Main Jupyter notebook
 ├── README.md                               # Project overview and instructions
